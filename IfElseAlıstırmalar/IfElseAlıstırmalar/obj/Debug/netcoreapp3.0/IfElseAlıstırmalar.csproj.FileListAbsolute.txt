@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\obj\Debug\netcoreapp3.0\IfElseAlıstırmalar.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\obj\Debug\netcoreapp3.0\IfElseAlıstırmalar.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\obj\Debug\netcoreapp3.0\IfElseAlıstırmalar.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\bin\Debug\netcoreapp3.0\IfElseAlıstırmalar.exe
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\bin\Debug\netcoreapp3.0\IfElseAlıstırmalar.deps.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\bin\Debug\netcoreapp3.0\IfElseAlıstırmalar.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\bin\Debug\netcoreapp3.0\IfElseAlıstırmalar.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\bin\Debug\netcoreapp3.0\IfElseAlıstırmalar.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\bin\Debug\netcoreapp3.0\IfElseAlıstırmalar.pdb
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\obj\Debug\netcoreapp3.0\IfElseAlıstırmalar.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\IfElseAlıstırmalar\IfElseAlıstırmalar\obj\Debug\netcoreapp3.0\IfElseAlıstırmalar.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.0\SwitchCase.exe
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.0\SwitchCase.deps.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.0\SwitchCase.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.0\SwitchCase.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.0\SwitchCase.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.0\SwitchCase.pdb
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.0\SwitchCase.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.0\SwitchCase.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.0\SwitchCase.pdb

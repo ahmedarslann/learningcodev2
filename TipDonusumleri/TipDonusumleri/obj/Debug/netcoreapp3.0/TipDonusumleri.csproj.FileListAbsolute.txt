@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.0\TipDonusumleri.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.0\TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.0\TipDonusumleri.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.0\TipDonusumleri.exe
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.0\TipDonusumleri.deps.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.0\TipDonusumleri.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.0\TipDonusumleri.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.0\TipDonusumleri.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.0\TipDonusumleri.pdb
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.0\TipDonusumleri.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.0\TipDonusumleri.pdb

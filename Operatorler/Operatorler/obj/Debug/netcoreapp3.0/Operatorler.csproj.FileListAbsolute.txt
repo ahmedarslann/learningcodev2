@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\bin\Debug\netcoreapp3.0\Operatorler.exe
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\bin\Debug\netcoreapp3.0\Operatorler.deps.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\bin\Debug\netcoreapp3.0\Operatorler.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\bin\Debug\netcoreapp3.0\Operatorler.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\bin\Debug\netcoreapp3.0\Operatorler.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\bin\Debug\netcoreapp3.0\Operatorler.pdb
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\obj\Debug\netcoreapp3.0\Operatorler.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\obj\Debug\netcoreapp3.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\obj\Debug\netcoreapp3.0\Operatorler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\obj\Debug\netcoreapp3.0\Operatorler.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\Operatorler\Operatorler\obj\Debug\netcoreapp3.0\Operatorler.pdb

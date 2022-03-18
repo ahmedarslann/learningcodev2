@@ -1,0 +1,25 @@
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.exe
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.deps.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.pdb
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.pdb
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.exe
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.deps.json
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.dll
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\bin\Debug\netcoreapp3.0\SwitchOrnekler.pdb
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.dll
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.pdb
+C:\Users\Lenovo\Desktop\Okul\ahmet son duzenlenecek\c# öğrenme kodları\SwitchOrnekler\SwitchOrnekler\obj\Debug\netcoreapp3.0\SwitchOrnekler.genruntimeconfig.cache

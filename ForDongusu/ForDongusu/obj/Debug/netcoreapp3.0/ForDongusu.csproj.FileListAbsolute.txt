@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\obj\Debug\netcoreapp3.0\ForDongusu.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\obj\Debug\netcoreapp3.0\ForDongusu.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\obj\Debug\netcoreapp3.0\ForDongusu.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.0\ForDongusu.exe
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.0\ForDongusu.deps.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.0\ForDongusu.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.0\ForDongusu.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.0\ForDongusu.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.0\ForDongusu.pdb
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\obj\Debug\netcoreapp3.0\ForDongusu.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\ForDongusu\ForDongusu\obj\Debug\netcoreapp3.0\ForDongusu.pdb

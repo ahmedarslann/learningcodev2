@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\obj\Debug\netcoreapp3.0\KosullarIfElse.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\obj\Debug\netcoreapp3.0\KosullarIfElse.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\obj\Debug\netcoreapp3.0\KosullarIfElse.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\bin\Debug\netcoreapp3.0\KosullarIfElse.exe
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\bin\Debug\netcoreapp3.0\KosullarIfElse.deps.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\bin\Debug\netcoreapp3.0\KosullarIfElse.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\bin\Debug\netcoreapp3.0\KosullarIfElse.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\bin\Debug\netcoreapp3.0\KosullarIfElse.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\bin\Debug\netcoreapp3.0\KosullarIfElse.pdb
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\obj\Debug\netcoreapp3.0\KosullarIfElse.dll
+C:\Users\Lenovo\Desktop\c# öğrenme kodları\KosullarIfElse\KosullarIfElse\obj\Debug\netcoreapp3.0\KosullarIfElse.pdb
